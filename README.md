@@ -1,6 +1,7 @@
 # coffee-machine
 
 *** This is the Object-oriented Programming version of the Coffee Machine project ***  
+The app is written in Python
   
 1. Prompt user by asking what kind of coffee they want.  
 2. Turn off the Coffee Machine if user enter "off".  
